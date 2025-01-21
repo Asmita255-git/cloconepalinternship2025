@@ -172,3 +172,19 @@
    8267    2655  3.5 chrome
    1953    1916  2.2 cinnamon
 
+----Resource Usage: 2025-01-21 16:15:01----
+    PID    PPID %MEM COMMAND
+  21524    2655  3.3 chrome
+   8642    2655  6.3 chrome
+   2678    2648  2.1 chrome
+   1953    1916  2.2 cinnamon
+   8267    2655  3.6 chrome
+
+----Resource Usage: 2025-01-21 16:20:01----
+    PID    PPID %MEM COMMAND
+  21524    2655  3.3 chrome
+   8642    2655  6.3 chrome
+   2678    2648  2.1 chrome
+   1953    1916  2.2 cinnamon
+   8267    2655  3.6 chrome
+
