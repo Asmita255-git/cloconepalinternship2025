@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .toggled {
+            background-color: red; 
+        }
+    </style>
+</head>
+<body>
+    
+   
+    
+    <button id="actionButton">Click Me!</button>
+    <p id="mainParagraph">This is the original paragraph.</p>
+    <script>
+        const button = document.getElementById('actionButton');
+        const mainParagraph = document.getElementById('mainParagraph');
+
+        button.addEventListener('click', () => {
+            // Change the paragraph's text when the button is clicked
+            mainParagraph.textContent = "The paragraph text has been changed!";
+
+            // Add a new paragraph dynamically
+            const newParagraph = document.createElement('p');
+            newParagraph.textContent = "This is a dynamically added paragraph.";
+            document.body.appendChild(newParagraph);
+
+            // Toggle the button's background color on each click
+            button.classList.toggle('toggled');
+        });
+    </script>
+
+
+    </main>
+</body>
+</html>
