@@ -1,0 +1,752 @@
+----Resource Usage: 2025-02-02 13:50:20----
+    PID    PPID %MEM COMMAND
+   1796    1759  2.3 cinnamon
+   1112    1099  1.2 Xorg
+      1       0  0.1 systemd
+   1844    1392  0.7 blueman-applet
+   1845    1392  0.8 nemo-desktop
+
+----Resource Usage: 2025-02-02 13:55:01----
+    PID    PPID %MEM COMMAND
+   3258    3254  0.0 ps
+   2339    2252  3.7 code
+   2580    2245  4.4 code
+   2996    2580  1.9 code
+   2285    2249  1.7 code
+
+----Resource Usage: 2025-02-02 14:00:01----
+    PID    PPID %MEM COMMAND
+   4137    4058  4.0 brave
+   4269    4265  0.0 ps
+   4045    4037  4.4 brave
+   4086    4055  2.3 brave
+   4087    4045  1.5 brave
+
+----Resource Usage: 2025-02-02 14:05:01----
+    PID    PPID %MEM COMMAND
+   4137    4058  5.6 brave
+   4503    4415  5.0 slack
+   4045    4037  4.4 brave
+   4629    4058  2.6 brave
+   4686    4670  3.9 soffice.bin
+
+----Resource Usage: 2025-02-02 14:10:01----
+    PID    PPID %MEM COMMAND
+   4876    4872  0.0 ps
+   4137    4058  5.8 brave
+   4503    4415  5.0 slack
+   2339    2252  4.0 code
+   4045    4037  4.5 brave
+
+----Resource Usage: 2025-02-02 14:15:01----
+    PID    PPID %MEM COMMAND
+   5173    5169  0.0 ps
+   4883    4058  6.8 brave
+   5166     797  0.0 cron
+   4137    4058  4.9 brave
+   4086    4055  2.8 brave
+
+----Resource Usage: 2025-02-02 14:20:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  6.9 brave
+   4086    4055  2.4 brave
+   1796    1759  2.5 cinnamon
+   4045    4037  4.6 brave
+   4503    4415  5.0 slack
+
+----Resource Usage: 2025-02-02 14:25:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  8.2 brave
+   4086    4055  2.8 brave
+   1796    1759  2.5 cinnamon
+   1112    1099  1.6 Xorg
+   4045    4037  4.6 brave
+
+----Resource Usage: 2025-02-02 14:30:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  6.4 brave
+   4086    4055  2.9 brave
+   5501    4058  6.2 brave
+   5875    4058  1.6 brave
+   1796    1759  2.5 cinnamon
+
+----Resource Usage: 2025-02-02 14:35:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  6.4 brave
+   5501    4058  6.3 brave
+   4086    4055  2.7 brave
+   1796    1759  2.5 cinnamon
+   1112    1099  1.6 Xorg
+
+----Resource Usage: 2025-02-02 14:40:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.5 brave
+   6579    4058  3.3 brave
+   5501    4058  6.1 brave
+   4086    4055  2.6 brave
+   1796    1759  2.6 cinnamon
+
+----Resource Usage: 2025-02-02 14:45:02----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.6 brave
+   5501    4058 10.2 brave
+   4086    4055  3.1 brave
+   1796    1759  2.6 cinnamon
+   6579    4058  3.3 brave
+
+----Resource Usage: 2025-02-02 14:50:01----
+    PID    PPID %MEM COMMAND
+   7459    7455  0.0 ps
+   4883    4058  5.4 brave
+   5501    4058  8.8 brave
+   4086    4055  2.7 brave
+   1796    1759  2.6 cinnamon
+
+----Resource Usage: 2025-02-02 14:55:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.4 brave
+   5501    4058 10.6 brave
+   4086    4055  3.0 brave
+   1796    1759  2.6 cinnamon
+   1112    1099  1.6 Xorg
+
+----Resource Usage: 2025-02-02 15:00:01----
+    PID    PPID %MEM COMMAND
+   8408    4058 12.9 brave
+   5501    4058 10.1 brave
+   4883    4058  5.5 brave
+   4086    4055  2.8 brave
+   1796    1759  2.5 cinnamon
+
+----Resource Usage: 2025-02-02 15:05:01----
+    PID    PPID %MEM COMMAND
+   8408    4058  7.1 brave
+   4883    4058  5.4 brave
+   5501    4058 10.1 brave
+   4086    4055  2.8 brave
+   1796    1759  2.5 cinnamon
+
+----Resource Usage: 2025-02-02 15:10:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.5 brave
+   5501    4058  9.9 brave
+   8408    4058  7.2 brave
+   4086    4055  2.8 brave
+   1796    1759  2.5 cinnamon
+
+----Resource Usage: 2025-02-02 15:15:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.3 brave
+   5501    4058 10.1 brave
+   8408    4058  7.5 brave
+   4086    4055  2.9 brave
+   1796    1759  2.5 cinnamon
+
+----Resource Usage: 2025-02-02 15:20:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.3 brave
+   5501    4058 10.4 brave
+   8408    4058  6.4 brave
+   4086    4055  2.8 brave
+   1796    1759  2.6 cinnamon
+
+----Resource Usage: 2025-02-02 15:25:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.3 brave
+   5501    4058  9.9 brave
+   8408    4058  7.0 brave
+   4086    4055  2.9 brave
+   1796    1759  2.6 cinnamon
+
+----Resource Usage: 2025-02-02 15:30:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.4 brave
+   5501    4058 10.2 brave
+   8408    4058  7.4 brave
+   4086    4055  2.9 brave
+   1796    1759  2.6 cinnamon
+
+----Resource Usage: 2025-02-02 15:35:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.5 brave
+   5501    4058 10.0 brave
+   8408    4058  7.5 brave
+   4086    4055  2.9 brave
+   1796    1759  2.6 cinnamon
+
+----Resource Usage: 2025-02-02 15:40:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.4 brave
+   5501    4058 10.2 brave
+   8408    4058  7.7 brave
+   4086    4055  2.9 brave
+   1796    1759  2.6 cinnamon
+
+----Resource Usage: 2025-02-02 15:45:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.5 brave
+   5501    4058  9.9 brave
+   8408    4058  7.5 brave
+   4086    4055  2.9 brave
+   1796    1759  2.6 cinnamon
+
+----Resource Usage: 2025-02-02 15:50:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.0 brave
+   9888       1  4.0 chrome
+   5501    4058 10.0 brave
+  10167    9910  4.5 chrome
+  10280    9910  3.3 chrome
+
+----Resource Usage: 2025-02-02 15:55:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.9 brave
+   5501    4058 10.2 brave
+   8408    4058  6.6 brave
+   4086    4055  2.3 brave
+   9888       1  3.8 chrome
+
+----Resource Usage: 2025-02-02 16:00:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.0 brave
+   5501    4058  9.9 brave
+   8408    4058  7.2 brave
+   4086    4055  2.2 brave
+   1796    1759  1.8 cinnamon
+
+----Resource Usage: 2025-02-02 16:05:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.0 brave
+   5501    4058 10.2 brave
+   8408    4058  7.2 brave
+   4086    4055  2.2 brave
+   1796    1759  1.8 cinnamon
+
+----Resource Usage: 2025-02-02 16:10:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.0 brave
+   5501    4058  9.9 brave
+   8408    4058  7.6 brave
+   4086    4055  2.2 brave
+   1796    1759  1.8 cinnamon
+
+----Resource Usage: 2025-02-02 16:15:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.0 brave
+   5501    4058 10.2 brave
+   8408    4058  7.8 brave
+   4086    4055  2.2 brave
+   1796    1759  1.8 cinnamon
+
+----Resource Usage: 2025-02-02 16:20:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.9 brave
+   5501    4058  9.9 brave
+   8408    4058  7.8 brave
+   4086    4055  2.2 brave
+   1796    1759  1.8 cinnamon
+
+----Resource Usage: 2025-02-02 16:25:01----
+    PID    PPID %MEM COMMAND
+  12257   12253  0.0 ps
+   4883    4058  5.0 brave
+   5501    4058 10.1 brave
+   8408    4058  7.7 brave
+   4086    4055  2.2 brave
+
+----Resource Usage: 2025-02-02 16:30:01----
+    PID    PPID %MEM COMMAND
+  12475   12471  0.0 ps
+   4883    4058  5.3 brave
+   5501    4058 10.0 brave
+   8408    4058  7.4 brave
+   4086    4055  2.2 brave
+
+----Resource Usage: 2025-02-02 16:35:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.1 brave
+   5501    4058 10.1 brave
+   8408    4058  7.5 brave
+   4086    4055  2.2 brave
+   1796    1759  1.8 cinnamon
+
+----Resource Usage: 2025-02-02 16:40:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.1 brave
+   5501    4058  9.9 brave
+   8408    4058  8.0 brave
+   4086    4055  2.2 brave
+   1796    1759  1.8 cinnamon
+
+----Resource Usage: 2025-02-02 16:45:01----
+    PID    PPID %MEM COMMAND
+  13283   13279  0.0 ps
+   4883    4058  4.9 brave
+   5501    4058 10.2 brave
+   8408    4058  8.1 brave
+   4086    4055  2.1 brave
+
+----Resource Usage: 2025-02-02 16:50:01----
+    PID    PPID %MEM COMMAND
+  13362   13358  0.0 ps
+   4883    4058  4.8 brave
+   5501    4058  9.8 brave
+   8408    4058  7.9 brave
+   4086    4055  2.1 brave
+
+----Resource Usage: 2025-02-02 16:55:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.9 brave
+   5501    4058 10.0 brave
+   8408    4058  8.1 brave
+   4086    4055  2.1 brave
+   1796    1759  1.8 cinnamon
+
+----Resource Usage: 2025-02-02 17:00:01----
+    PID    PPID %MEM COMMAND
+  14713   14709  0.0 ps
+   4883    4058  4.9 brave
+   5501    4058  9.7 brave
+   8408    4058  8.0 brave
+   4086    4055  2.1 brave
+
+----Resource Usage: 2025-02-02 17:05:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  5.0 brave
+   5501    4058 10.0 brave
+   8408    4058  8.0 brave
+   4086    4055  2.1 brave
+   1796    1759  1.8 cinnamon
+
+----Resource Usage: 2025-02-02 17:10:01----
+    PID    PPID %MEM COMMAND
+  15432    9910  3.0 chrome
+   4883    4058  5.0 brave
+   5501    4058 10.2 brave
+   8408    4058  8.1 brave
+   4086    4055  2.1 brave
+
+----Resource Usage: 2025-02-02 17:15:01----
+    PID    PPID %MEM COMMAND
+  16817    9910  4.6 chrome
+  15770   15700  4.1 code
+  16946    9910  4.4 chrome
+  16960    9910  4.5 chrome
+  16845    9910  3.3 chrome
+
+----Resource Usage: 2025-02-02 17:20:01----
+    PID    PPID %MEM COMMAND
+  17458   17454  0.0 ps
+  15770   15700  4.5 code
+   4883    4058  4.9 brave
+   5501    4058 10.2 brave
+   8408    4058  7.8 brave
+
+----Resource Usage: 2025-02-02 17:25:01----
+    PID    PPID %MEM COMMAND
+  18341   18337  0.0 ps
+  15770   15700  4.7 code
+   4883    4058  4.8 brave
+   5501    4058  9.9 brave
+   8408    4058  7.9 brave
+
+----Resource Usage: 2025-02-02 17:30:01----
+    PID    PPID %MEM COMMAND
+  15770   15700  4.9 code
+   4883    4058  5.0 brave
+   5501    4058 10.0 brave
+   8408    4058  7.9 brave
+   4086    4055  2.0 brave
+
+----Resource Usage: 2025-02-02 17:35:01----
+    PID    PPID %MEM COMMAND
+  15770   15700  5.3 code
+   4883    4058  4.5 brave
+   5501    4058  9.1 brave
+   8408    4058  7.5 brave
+   4086    4055  1.9 brave
+
+----Resource Usage: 2025-02-02 17:40:01----
+    PID    PPID %MEM COMMAND
+  15770   15700  5.5 code
+   4883    4058  4.5 brave
+   5501    4058  9.3 brave
+   8408    4058  7.5 brave
+   4086    4055  1.9 brave
+
+----Resource Usage: 2025-02-02 17:45:01----
+    PID    PPID %MEM COMMAND
+  15770   15700  5.4 code
+   4883    4058  4.6 brave
+   5501    4058  9.0 brave
+   8408    4058  7.5 brave
+   4086    4055  1.9 brave
+
+----Resource Usage: 2025-02-02 17:50:01----
+    PID    PPID %MEM COMMAND
+  15770   15700  5.3 code
+   4883    4058  4.5 brave
+   5501    4058  9.3 brave
+   8408    4058  7.5 brave
+   4086    4055  1.9 brave
+
+----Resource Usage: 2025-02-02 17:55:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.5 brave
+  15770   15700  5.3 code
+   5501    4058  9.0 brave
+   8408    4058  7.5 brave
+   4086    4055  1.9 brave
+
+----Resource Usage: 2025-02-02 18:00:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.5 brave
+  15770   15700  5.2 code
+   5501    4058  9.2 brave
+   8408    4058  7.5 brave
+   4086    4055  1.9 brave
+
+----Resource Usage: 2025-02-02 18:05:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.5 brave
+  15770   15700  5.2 code
+   5501    4058  9.4 brave
+   8408    4058  7.4 brave
+   4086    4055  1.9 brave
+
+----Resource Usage: 2025-02-02 18:10:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.4 brave
+   5501    4058  9.1 brave
+  15770   15700  5.2 code
+   8408    4058  7.4 brave
+   4086    4055  1.9 brave
+
+----Resource Usage: 2025-02-02 18:15:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.5 brave
+   5501    4058  9.4 brave
+  15770   15700  5.2 code
+   8408    4058  7.4 brave
+   4086    4055  1.9 brave
+
+----Resource Usage: 2025-02-02 18:20:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.5 brave
+   5501    4058  9.1 brave
+   8408    4058  7.4 brave
+  15770   15700  5.3 code
+   4086    4055  1.9 brave
+
+----Resource Usage: 2025-02-02 18:25:01----
+    PID    PPID %MEM COMMAND
+  21029   21025  0.0 ps
+   4883    4058  4.4 brave
+   5501    4058  9.4 brave
+   8408    4058  7.4 brave
+  15770   15700  5.3 code
+
+----Resource Usage: 2025-02-02 18:30:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.8 brave
+   5501    4058  9.0 brave
+   8408    4058  7.4 brave
+  15770   15700  5.3 code
+   4086    4055  1.9 brave
+
+----Resource Usage: 2025-02-02 18:35:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.5 brave
+   5501    4058  9.4 brave
+   8408    4058  7.4 brave
+  15770   15700  5.3 code
+   4086    4055  1.9 brave
+
+----Resource Usage: 2025-02-02 18:40:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.6 brave
+   5501    4058  9.1 brave
+   8408    4058  7.5 brave
+   4086    4055  1.9 brave
+  15770   15700  5.3 code
+
+----Resource Usage: 2025-02-02 18:45:01----
+    PID    PPID %MEM COMMAND
+  21470    4058  1.5 brave
+   4883    4058  4.5 brave
+   5501    4058  9.4 brave
+   8408    4058  7.5 brave
+   4086    4055  1.9 brave
+
+----Resource Usage: 2025-02-02 18:50:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.5 brave
+   5501    4058  9.1 brave
+   8408    4058  7.4 brave
+   4086    4055  1.9 brave
+  15770   15700  5.3 code
+
+----Resource Usage: 2025-02-02 18:55:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.6 brave
+   5501    4058  9.3 brave
+   8408    4058  7.5 brave
+   4086    4055  1.6 brave
+  15770   15700  5.1 code
+
+----Resource Usage: 2025-02-02 19:00:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.6 brave
+   5501    4058  9.0 brave
+   8408    4058  7.8 brave
+   4086    4055  1.6 brave
+  15770   15700  5.1 code
+
+----Resource Usage: 2025-02-02 19:05:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.5 brave
+   5501    4058  9.3 brave
+   8408    4058  7.2 brave
+   4086    4055  1.6 brave
+   1796    1759  1.8 cinnamon
+
+----Resource Usage: 2025-02-02 19:10:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.6 brave
+   5501    4058  9.5 brave
+   8408    4058  7.6 brave
+   4086    4055  1.6 brave
+   1796    1759  1.4 cinnamon
+
+----Resource Usage: 2025-02-02 19:15:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.6 brave
+   5501    4058  9.2 brave
+   8408    4058  7.6 brave
+   4086    4055  1.5 brave
+   1796    1759  1.4 cinnamon
+
+----Resource Usage: 2025-02-02 19:20:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.5 brave
+   5501    4058  9.4 brave
+   8408    4058  8.6 brave
+   4086    4055  1.5 brave
+   1796    1759  1.4 cinnamon
+
+----Resource Usage: 2025-02-02 19:25:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.6 brave
+   5501    4058  9.2 brave
+   8408    4058  8.0 brave
+   4086    4055  1.5 brave
+   1796    1759  1.4 cinnamon
+
+----Resource Usage: 2025-02-02 19:30:01----
+    PID    PPID %MEM COMMAND
+  22972   22968  0.0 ps
+   4883    4058  4.6 brave
+   5501    4058  9.4 brave
+   8408    4058  8.1 brave
+   4086    4055  1.5 brave
+
+----Resource Usage: 2025-02-02 19:35:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.6 brave
+   5501    4058  9.1 brave
+   8408    4058  8.2 brave
+   4086    4055  1.5 brave
+   1796    1759  1.4 cinnamon
+
+----Resource Usage: 2025-02-02 19:40:01----
+    PID    PPID %MEM COMMAND
+   4883    4058  4.6 brave
+   5501    4058 11.3 brave
+   4086    4055  1.5 brave
+   1796    1759  1.4 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 19:45:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 11.6 brave
+   4883    4058  4.7 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 19:50:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 12.3 brave
+   4883    4058  4.7 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 19:55:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 12.5 brave
+   4883    4058  4.8 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 20:00:01----
+    PID    PPID %MEM COMMAND
+  25062   25060  0.5 appstreamcli
+  24323   24322  1.3 mint-refresh-ca
+   5501    4058 12.9 brave
+  25053       1  0.2 packagekitd
+   4883    4058  4.8 brave
+
+----Resource Usage: 2025-02-02 20:05:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 13.0 brave
+   4883    4058  4.9 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 20:10:01----
+    PID    PPID %MEM COMMAND
+  25319   25315  0.0 ps
+   5501    4058 13.2 brave
+   4883    4058  4.9 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+
+----Resource Usage: 2025-02-02 20:15:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 13.5 brave
+   4883    4058  4.9 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 20:20:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 13.6 brave
+   4883    4058  4.9 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 20:25:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 14.1 brave
+   4883    4058  4.8 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 20:30:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 14.1 brave
+   4883    4058  4.8 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 20:35:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 14.3 brave
+   4883    4058  4.9 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 20:40:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 14.2 brave
+   4883    4058  4.9 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 20:45:01----
+    PID    PPID %MEM COMMAND
+  26095   26091  0.0 ps
+   5501    4058 14.3 brave
+   4883    4058  4.9 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+
+----Resource Usage: 2025-02-02 20:50:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 14.5 brave
+   4883    4058  4.9 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 20:55:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 12.1 brave
+   4883    4058  4.8 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 21:00:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 12.4 brave
+   4883    4058  4.8 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 21:05:01----
+    PID    PPID %MEM COMMAND
+  26559   26555  0.0 ps
+   5501    4058 12.6 brave
+   4883    4058  4.9 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+
+----Resource Usage: 2025-02-02 21:10:01----
+    PID    PPID %MEM COMMAND
+  26671   26667  0.0 ps
+   5501    4058 13.0 brave
+   4883    4058  4.9 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+
+----Resource Usage: 2025-02-02 21:15:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 13.1 brave
+   4883    4058  5.0 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 21:20:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 13.2 brave
+   4883    4058  5.0 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 21:25:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 13.6 brave
+   4883    4058  5.0 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 21:30:01----
+    PID    PPID %MEM COMMAND
+   5501    4058 13.6 brave
+   4883    4058  4.9 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+   4686    4670  0.6 soffice.bin
+
+----Resource Usage: 2025-02-02 21:35:01----
+    PID    PPID %MEM COMMAND
+  27186   27182  0.0 ps
+   5501    4058 13.8 brave
+   4883    4058  5.0 brave
+   4086    4055  1.5 brave
+   1796    1759  1.5 cinnamon
+

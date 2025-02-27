@@ -1,0 +1,880 @@
+----Resource Usage: 2025-01-25 12:05:10----
+    PID    PPID %MEM COMMAND
+   1339    1335  0.0 ps
+      1       0  0.1 systemd
+   1186    1183  0.9 slick-greeter
+   1106    1096  1.2 Xorg
+    337       1  0.1 systemd-journal
+
+----Resource Usage: 2025-01-25 12:10:01----
+    PID    PPID %MEM COMMAND
+   3026    2954  3.6 code
+   3066    2946  4.5 code
+   1798    1754  2.5 cinnamon
+   2348       1  3.9 chrome
+   2622    2384  3.1 chrome
+
+----Resource Usage: 2025-01-25 12:15:01----
+    PID    PPID %MEM COMMAND
+   4075    3409  3.5 xreader
+   3026    2954  4.2 code
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  3.9 chrome
+
+----Resource Usage: 2025-01-25 12:20:02----
+    PID    PPID %MEM COMMAND
+   3026    2954  4.0 code
+   1798    1754  2.8 cinnamon
+   1106    1096  1.5 Xorg
+   2989    2951  1.7 code
+   2348       1  3.9 chrome
+
+----Resource Usage: 2025-01-25 12:25:01----
+    PID    PPID %MEM COMMAND
+   5210    2384  7.8 chrome
+   3026    2954  4.2 code
+   1798    1754  2.8 cinnamon
+   2424    2365  2.5 chrome
+   1106    1096  1.5 Xorg
+
+----Resource Usage: 2025-01-25 12:30:01----
+    PID    PPID %MEM COMMAND
+   5210    2384  8.0 chrome
+   2424    2365  2.5 chrome
+   1798    1754  2.8 cinnamon
+   3026    2954  4.2 code
+   1106    1096  1.5 Xorg
+
+----Resource Usage: 2025-01-25 12:35:01----
+    PID    PPID %MEM COMMAND
+   5210    2384  7.9 chrome
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   3026    2954  4.2 code
+   1106    1096  1.5 Xorg
+
+----Resource Usage: 2025-01-25 12:40:01----
+    PID    PPID %MEM COMMAND
+   6201    6197  0.0 ps
+   5210    2384  7.3 chrome
+   2424    2365  2.4 chrome
+   1798    1754  2.8 cinnamon
+   3026    2954  4.1 code
+
+----Resource Usage: 2025-01-25 12:45:01----
+    PID    PPID %MEM COMMAND
+   5210    2384  7.3 chrome
+   2424    2365  2.4 chrome
+   1798    1754  2.8 cinnamon
+   3026    2954  4.1 code
+   1106    1096  1.6 Xorg
+
+----Resource Usage: 2025-01-25 12:50:01----
+    PID    PPID %MEM COMMAND
+   5210    2384  7.3 chrome
+   2424    2365  2.4 chrome
+   1798    1754  2.8 cinnamon
+   3026    2954  4.2 code
+   1106    1096  1.6 Xorg
+
+----Resource Usage: 2025-01-25 12:55:01----
+    PID    PPID %MEM COMMAND
+   6971    6967  0.0 ps
+   5210    2384  6.7 chrome
+   2424    2365  2.5 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+
+----Resource Usage: 2025-01-25 13:00:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  3.3 chrome
+   5210    2384  6.6 chrome
+   7083    2384  4.1 chrome
+   2424    2365  2.7 chrome
+   1798    1754  2.8 cinnamon
+
+----Resource Usage: 2025-01-25 13:05:01----
+    PID    PPID %MEM COMMAND
+   7418    7414  0.0 ps
+   7232    2384  3.2 chrome
+   5210    2384  6.6 chrome
+   2424    2365  2.8 chrome
+   1798    1754  2.8 cinnamon
+
+----Resource Usage: 2025-01-25 13:10:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  3.1 chrome
+   5210    2384  6.6 chrome
+   2424    2365  2.8 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+
+----Resource Usage: 2025-01-25 13:15:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  3.1 chrome
+   5210    2384  6.6 chrome
+   2424    2365  2.8 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+
+----Resource Usage: 2025-01-25 13:20:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  3.1 chrome
+   2424    2365  2.8 chrome
+   5210    2384  6.7 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+
+----Resource Usage: 2025-01-25 13:25:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  3.1 chrome
+   2424    2365  2.8 chrome
+   5210    2384  6.5 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+
+----Resource Usage: 2025-01-25 13:30:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  3.1 chrome
+   2424    2365  2.8 chrome
+   5210    2384  6.5 chrome
+   1106    1096  1.6 Xorg
+   1798    1754  2.8 cinnamon
+
+----Resource Usage: 2025-01-25 13:35:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  3.1 chrome
+   2424    2365  2.8 chrome
+   5210    2384  6.6 chrome
+   1106    1096  1.6 Xorg
+   1798    1754  2.8 cinnamon
+
+----Resource Usage: 2025-01-25 13:40:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  3.1 chrome
+   2424    2365  2.8 chrome
+   5210    2384  6.4 chrome
+   1106    1096  1.6 Xorg
+   1798    1754  2.8 cinnamon
+
+----Resource Usage: 2025-01-25 13:45:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  3.1 chrome
+   2424    2365  2.8 chrome
+   5210    2384  6.4 chrome
+   1106    1096  1.8 Xorg
+   1798    1754  2.8 cinnamon
+
+----Resource Usage: 2025-01-25 13:50:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  3.1 chrome
+   2424    2365  2.8 chrome
+   5210    2384  6.4 chrome
+   1106    1096  1.8 Xorg
+   1798    1754  2.8 cinnamon
+
+----Resource Usage: 2025-01-25 13:55:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  3.1 chrome
+   2424    2365  2.8 chrome
+   5210    2384  6.5 chrome
+   1106    1096  1.8 Xorg
+   1798    1754  2.8 cinnamon
+
+----Resource Usage: 2025-01-25 14:00:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  2.9 chrome
+   2424    2365  2.6 chrome
+   5210    2384  6.5 chrome
+   1106    1096  1.8 Xorg
+   1798    1754  2.8 cinnamon
+
+----Resource Usage: 2025-01-25 14:05:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  2.9 chrome
+   2424    2365  2.6 chrome
+   5210    2384  6.5 chrome
+   1106    1096  1.8 Xorg
+   1798    1754  2.8 cinnamon
+
+----Resource Usage: 2025-01-25 14:10:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  2.9 chrome
+   2424    2365  2.6 chrome
+   5210    2384  6.5 chrome
+   1106    1096  1.8 Xorg
+   1798    1754  2.8 cinnamon
+
+----Resource Usage: 2025-01-25 14:15:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  2.9 chrome
+   2424    2365  2.6 chrome
+   5210    2384  6.6 chrome
+   1106    1096  1.8 Xorg
+   1798    1754  2.8 cinnamon
+
+----Resource Usage: 2025-01-25 14:20:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  2.9 chrome
+   2424    2365  2.6 chrome
+   5210    2384  6.4 chrome
+   1106    1096  1.8 Xorg
+   1798    1754  2.8 cinnamon
+
+----Resource Usage: 2025-01-25 14:25:01----
+    PID    PPID %MEM COMMAND
+   7232    2384  2.9 chrome
+   2424    2365  2.6 chrome
+   5210    2384  6.5 chrome
+   1106    1096  1.8 Xorg
+   1798    1754  2.8 cinnamon
+
+----Resource Usage: 2025-01-25 14:30:01----
+    PID    PPID %MEM COMMAND
+   9944    9940  0.0 ps
+   2424    2365  2.6 chrome
+   7232    2384  2.9 chrome
+   5210    2384  6.5 chrome
+   1106    1096  1.8 Xorg
+
+----Resource Usage: 2025-01-25 14:35:01----
+    PID    PPID %MEM COMMAND
+  10137    2384  5.2 chrome
+  10061    2384  5.4 chrome
+   2424    2365  2.8 chrome
+   7232    2384  2.8 chrome
+   5210    2384  7.0 chrome
+
+----Resource Usage: 2025-01-25 14:40:01----
+    PID    PPID %MEM COMMAND
+  11470   11466  0.0 ps
+  10137    2384  5.7 chrome
+   2424    2365  2.7 chrome
+   7232    2384  2.6 chrome
+  11441    3409  0.6 file-roller
+
+----Resource Usage: 2025-01-25 14:45:01----
+    PID    PPID %MEM COMMAND
+  10137    2384  7.3 chrome
+   2424    2365  2.7 chrome
+   7232    2384  2.6 chrome
+  10428   10418  1.4 python3
+   5210    2384  6.4 chrome
+
+----Resource Usage: 2025-01-25 14:50:01----
+    PID    PPID %MEM COMMAND
+  10137    2384  7.2 chrome
+   2424    2365  2.6 chrome
+   7232    2384  2.6 chrome
+  10428   10418  1.4 python3
+   5210    2384  6.4 chrome
+
+----Resource Usage: 2025-01-25 14:55:01----
+    PID    PPID %MEM COMMAND
+  10137    2384  8.1 chrome
+   2424    2365  2.8 chrome
+   7232    2384  2.6 chrome
+  10428   10418  1.4 python3
+   5210    2384  6.6 chrome
+
+----Resource Usage: 2025-01-25 15:00:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.5 chrome
+   1106    1096  1.4 Xorg
+   1798    1754  2.6 cinnamon
+   2348       1  3.9 chrome
+   2426    2348  1.5 chrome
+
+----Resource Usage: 2025-01-25 15:05:01----
+    PID    PPID %MEM COMMAND
+  13263    2384  6.1 chrome
+  13462    2384  4.2 chrome
+  13412    2384  3.6 chrome
+   2424    2365  2.6 chrome
+  13293    2384  3.7 chrome
+
+----Resource Usage: 2025-01-25 15:10:01----
+    PID    PPID %MEM COMMAND
+  13263    2384  6.9 chrome
+   2424    2365  2.7 chrome
+  13462    2384  4.0 chrome
+  13412    2384  3.3 chrome
+  13293    2384  3.3 chrome
+
+----Resource Usage: 2025-01-25 15:15:01----
+    PID    PPID %MEM COMMAND
+  14546    2384  7.9 chrome
+  13263    2384  2.9 chrome
+   2424    2365  2.8 chrome
+  13412    2384  4.5 chrome
+   1798    1754  2.7 cinnamon
+
+----Resource Usage: 2025-01-25 15:20:01----
+    PID    PPID %MEM COMMAND
+  16111    2384  5.7 chrome
+  14546    2384  2.7 chrome
+   2424    2365  2.8 chrome
+  16168    2384  1.4 chrome
+   1798    1754  2.7 cinnamon
+
+----Resource Usage: 2025-01-25 15:25:01----
+    PID    PPID %MEM COMMAND
+  16430   16426  0.0 ps
+   2424    2365  2.7 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.4 Xorg
+  13293    2384  3.7 chrome
+
+----Resource Usage: 2025-01-25 15:30:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.7 chrome
+  13380    2384  2.9 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.4 Xorg
+  13293    2384  3.8 chrome
+
+----Resource Usage: 2025-01-25 15:35:01----
+    PID    PPID %MEM COMMAND
+  16638   16634  0.0 ps
+   2424    2365  2.7 chrome
+  13380    2384  3.0 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.4 Xorg
+
+----Resource Usage: 2025-01-25 15:40:01----
+    PID    PPID %MEM COMMAND
+  16800    2384  7.0 chrome
+   2424    2365  2.8 chrome
+  13380    2384  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.4 Xorg
+
+----Resource Usage: 2025-01-25 15:45:01----
+    PID    PPID %MEM COMMAND
+  16800    2384  6.4 chrome
+   2424    2365  2.8 chrome
+  13380    2384  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.4 Xorg
+
+----Resource Usage: 2025-01-25 15:50:01----
+    PID    PPID %MEM COMMAND
+  16800    2384  6.5 chrome
+   2424    2365  2.7 chrome
+  13380    2384  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.4 Xorg
+
+----Resource Usage: 2025-01-25 15:55:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+  13380    2384  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.4 Xorg
+  13293    2384  4.3 chrome
+
+----Resource Usage: 2025-01-25 16:00:01----
+    PID    PPID %MEM COMMAND
+  17762    2384  6.2 chrome
+   2424    2365  2.8 chrome
+  13380    2384  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.4 Xorg
+
+----Resource Usage: 2025-01-25 16:05:01----
+    PID    PPID %MEM COMMAND
+  18316    2384  7.5 chrome
+   2424    2365  3.0 chrome
+   1798    1754  2.7 cinnamon
+  13380    2384  2.6 chrome
+   1106    1096  1.4 Xorg
+
+----Resource Usage: 2025-01-25 16:10:01----
+    PID    PPID %MEM COMMAND
+  18316    2384  6.5 chrome
+  18762   18674  4.6 slack
+   2424    2365  2.6 chrome
+  18666    1798  2.4 slack
+   1798    1754  2.7 cinnamon
+
+----Resource Usage: 2025-01-25 16:15:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+  18762   18674  3.7 slack
+   1798    1754  2.7 cinnamon
+  13380    2384  2.6 chrome
+   1106    1096  1.4 Xorg
+
+----Resource Usage: 2025-01-25 16:20:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+  18762   18674  3.8 slack
+   1798    1754  2.7 cinnamon
+  13380    2384  2.6 chrome
+   1106    1096  1.4 Xorg
+
+----Resource Usage: 2025-01-25 16:25:01----
+    PID    PPID %MEM COMMAND
+  19748   19744  0.0 ps
+   2424    2365  2.6 chrome
+  18762   18674  3.7 slack
+   1798    1754  2.7 cinnamon
+   1106    1096  1.4 Xorg
+
+----Resource Usage: 2025-01-25 16:30:01----
+    PID    PPID %MEM COMMAND
+  19764       1  0.2 updatedb.plocat
+   2424    2365  2.6 chrome
+  18762   18674  3.8 slack
+   1798    1754  2.7 cinnamon
+   1106    1096  1.4 Xorg
+
+----Resource Usage: 2025-01-25 16:35:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.7 cinnamon
+  18762   18674  3.8 slack
+   1106    1096  1.6 Xorg
+  13380    2384  2.6 chrome
+
+----Resource Usage: 2025-01-25 16:40:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.6 Xorg
+  18762   18674  3.8 slack
+  13380    2384  2.6 chrome
+
+----Resource Usage: 2025-01-25 16:45:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.6 Xorg
+  13380    2384  2.6 chrome
+  18762   18674  3.9 slack
+
+----Resource Usage: 2025-01-25 16:50:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.6 Xorg
+  13380    2384  2.6 chrome
+  18762   18674  4.0 slack
+
+----Resource Usage: 2025-01-25 16:55:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.6 Xorg
+  13380    2384  2.6 chrome
+  18762   18674  3.8 slack
+
+----Resource Usage: 2025-01-25 17:00:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.6 Xorg
+  13380    2384  2.6 chrome
+  18762   18674  3.8 slack
+
+----Resource Usage: 2025-01-25 17:05:01----
+    PID    PPID %MEM COMMAND
+  20017   20013  0.0 ps
+   2424    2365  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.6 Xorg
+  13380    2384  2.6 chrome
+
+----Resource Usage: 2025-01-25 17:10:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.6 Xorg
+  13380    2384  2.6 chrome
+   2348       1  4.1 chrome
+
+----Resource Usage: 2025-01-25 17:15:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.6 Xorg
+  13380    2384  2.6 chrome
+   2348       1  4.1 chrome
+
+----Resource Usage: 2025-01-25 17:20:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.6 Xorg
+  13380    2384  2.6 chrome
+   2348       1  4.1 chrome
+
+----Resource Usage: 2025-01-25 17:25:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+  20379    2384  3.3 chrome
+   1798    1754  2.7 cinnamon
+  20405    2384  2.7 chrome
+   1106    1096  1.4 Xorg
+
+----Resource Usage: 2025-01-25 17:30:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.4 Xorg
+   2348       1  4.0 chrome
+  20379    2384  3.0 chrome
+
+----Resource Usage: 2025-01-25 17:35:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.6 Xorg
+  20790   20741  2.9 xreader
+   2348       1  4.0 chrome
+
+----Resource Usage: 2025-01-25 17:40:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.0 chrome
+  18762   18674  3.9 slack
+
+----Resource Usage: 2025-01-25 17:45:01----
+    PID    PPID %MEM COMMAND
+  21161    2384  7.3 chrome
+   2424    2365  2.7 chrome
+   1798    1754  2.7 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.1 chrome
+
+----Resource Usage: 2025-01-25 17:50:01----
+    PID    PPID %MEM COMMAND
+  21161    2384  8.2 chrome
+   2424    2365  2.8 chrome
+   1798    1754  2.7 cinnamon
+  20394    2384  2.9 chrome
+   1106    1096  1.6 Xorg
+
+----Resource Usage: 2025-01-25 17:55:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.7 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+  20394    2384  2.6 chrome
+   2348       1  4.1 chrome
+
+----Resource Usage: 2025-01-25 18:00:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.7 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+  20394    2384  2.6 chrome
+   2348       1  4.1 chrome
+
+----Resource Usage: 2025-01-25 18:05:01----
+    PID    PPID %MEM COMMAND
+  21969   21965  0.0 ps
+   2424    2365  2.7 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+  20394    2384  2.6 chrome
+
+----Resource Usage: 2025-01-25 18:10:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.1 chrome
+  20394    2384  2.6 chrome
+
+----Resource Usage: 2025-01-25 18:15:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.7 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.1 chrome
+  20394    2384  2.6 chrome
+
+----Resource Usage: 2025-01-25 18:20:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.7 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.1 chrome
+  20394    2384  2.6 chrome
+
+----Resource Usage: 2025-01-25 18:25:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.7 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.6 chrome
+
+----Resource Usage: 2025-01-25 18:30:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.7 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.6 chrome
+
+----Resource Usage: 2025-01-25 18:35:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.7 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.6 chrome
+
+----Resource Usage: 2025-01-25 18:40:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.6 chrome
+
+----Resource Usage: 2025-01-25 18:45:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.6 chrome
+
+----Resource Usage: 2025-01-25 18:50:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.6 chrome
+
+----Resource Usage: 2025-01-25 18:55:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.7 chrome
+
+----Resource Usage: 2025-01-25 19:00:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.6 chrome
+
+----Resource Usage: 2025-01-25 19:05:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.6 chrome
+
+----Resource Usage: 2025-01-25 19:10:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.8 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.6 chrome
+
+----Resource Usage: 2025-01-25 19:15:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.8 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.6 chrome
+
+----Resource Usage: 2025-01-25 19:20:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.8 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.7 chrome
+
+----Resource Usage: 2025-01-25 19:25:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.8 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.7 chrome
+
+----Resource Usage: 2025-01-25 19:30:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.8 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.7 chrome
+
+----Resource Usage: 2025-01-25 19:35:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.8 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.7 chrome
+
+----Resource Usage: 2025-01-25 19:40:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.7 chrome
+
+----Resource Usage: 2025-01-25 19:45:01----
+    PID    PPID %MEM COMMAND
+  23466   23462  0.0 ps
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.6 Xorg
+   2348       1  4.1 chrome
+
+----Resource Usage: 2025-01-25 19:50:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.6 chrome
+   1798    1754  2.8 cinnamon
+   1106    1096  1.7 Xorg
+   2348       1  4.1 chrome
+  18914    2384  3.7 chrome
+
+----Resource Usage: 2025-01-25 19:55:02----
+    PID    PPID %MEM COMMAND
+  23585    2384  6.4 chrome
+   2424    2365  2.5 chrome
+   1798    1754  2.6 cinnamon
+   1106    1096  1.7 Xorg
+   2348       1  4.0 chrome
+
+----Resource Usage: 2025-01-25 20:00:01----
+    PID    PPID %MEM COMMAND
+  23585    2384  6.9 chrome
+   2424    2365  2.5 chrome
+   1798    1754  2.6 cinnamon
+   1106    1096  1.7 Xorg
+   2348       1  4.0 chrome
+
+----Resource Usage: 2025-01-25 20:05:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.5 chrome
+  23585    2384  6.7 chrome
+   1798    1754  2.6 cinnamon
+   1106    1096  1.7 Xorg
+   2348       1  4.0 chrome
+
+----Resource Usage: 2025-01-25 20:10:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.5 chrome
+  23585    2384  6.6 chrome
+   1798    1754  2.6 cinnamon
+   1106    1096  1.7 Xorg
+   2348       1  4.0 chrome
+
+----Resource Usage: 2025-01-25 20:15:01----
+    PID    PPID %MEM COMMAND
+  24065   24061  0.0 ps
+   2424    2365  2.5 chrome
+  23585    2384  6.7 chrome
+   1798    1754  2.6 cinnamon
+   1106    1096  1.7 Xorg
+
+----Resource Usage: 2025-01-25 20:20:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.5 chrome
+  23585    2384  6.8 chrome
+   1798    1754  2.6 cinnamon
+   1106    1096  1.9 Xorg
+   2348       1  4.0 chrome
+
+----Resource Usage: 2025-01-25 20:25:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.5 chrome
+  23585    2384  6.8 chrome
+   1798    1754  2.6 cinnamon
+   1106    1096  1.9 Xorg
+   2348       1  4.0 chrome
+
+----Resource Usage: 2025-01-25 20:30:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.5 chrome
+  23585    2384  6.9 chrome
+   1798    1754  2.6 cinnamon
+   1106    1096  1.9 Xorg
+   2348       1  4.0 chrome
+
+----Resource Usage: 2025-01-25 20:35:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.5 chrome
+  23585    2384  7.1 chrome
+   1798    1754  2.6 cinnamon
+   1106    1096  1.9 Xorg
+   2348       1  4.0 chrome
+
+----Resource Usage: 2025-01-25 20:40:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.5 chrome
+  23585    2384  7.1 chrome
+   1798    1754  2.6 cinnamon
+   1106    1096  1.9 Xorg
+   2348       1  4.0 chrome
+
+----Resource Usage: 2025-01-25 20:45:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.5 chrome
+  23585    2384  7.1 chrome
+   1798    1754  2.6 cinnamon
+   1106    1096  1.9 Xorg
+   2348       1  4.0 chrome
+
+----Resource Usage: 2025-01-25 20:50:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.5 chrome
+  23585    2384  7.1 chrome
+   1798    1754  2.6 cinnamon
+   2348       1  4.0 chrome
+   1106    1096  1.9 Xorg
+
+----Resource Usage: 2025-01-25 20:55:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.5 chrome
+  23585    2384  7.1 chrome
+   1798    1754  2.6 cinnamon
+   2348       1  4.0 chrome
+   1106    1096  1.9 Xorg
+
+----Resource Usage: 2025-01-25 21:00:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.5 chrome
+   1798    1754  2.6 cinnamon
+  23585    2384  7.1 chrome
+   2348       1  4.0 chrome
+   1106    1096  1.9 Xorg
+
+----Resource Usage: 2025-01-25 21:05:01----
+    PID    PPID %MEM COMMAND
+  25947   25943  0.0 ps
+   2424    2365  2.5 chrome
+   1798    1754  2.6 cinnamon
+  23585    2384  7.1 chrome
+   2348       1  4.0 chrome
+
+----Resource Usage: 2025-01-25 21:10:01----
+    PID    PPID %MEM COMMAND
+   2424    2365  2.5 chrome
+   1798    1754  2.6 cinnamon
+  23585    2384  7.2 chrome
+   2348       1  4.0 chrome
+   1106    1096  1.9 Xorg
+
